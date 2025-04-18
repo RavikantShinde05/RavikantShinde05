@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikantshinde05" alt="ravikantshinde05" /></a> </p>
 
-- 🔭 I’m currently Building <h1>On-Chain AI Agents</h1>
+- 🔭 I’m currently Building <h2>On-Chain AI Agents</h2>
 
-- 🌱 I’m currently learning <h1>Various BlockChain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies / Protocols that are leveraging Cross-Chain funtionality, connecting with the REAL-WORLD assets (Connecting Web2 to Web3 World with the use of Oracles)</h1>
+- 🌱 I’m currently learning <h2>Various BlockChain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies / Protocols that are leveraging Cross-Chain funtionality, connecting with the REAL-WORLD assets (Connecting Web2 to Web3 World with the use of Oracles)</h2>
 
 - 📫 How to reach me  **ravikantss05@gmail.com**
 
