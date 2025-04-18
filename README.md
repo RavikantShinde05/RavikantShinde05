@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **On-Chain AI Agent**
 
-- 🌱 I’m currently learning **about Cloud Computing and Multicloud Technologies**
+- 🌱 I’m currently learning **About Various BlockChain protocols, Tools, and Underneath Techstack used for Ecosystem in the web3 decentralized world, and technologies / Protocols that are leveraging Cross-Chain funtionality, connecting with the real-world assets and tokenizing real-world assets to digital assets**
 
 - 📫 How to reach me **ravikantss05@gmail.com**
 
