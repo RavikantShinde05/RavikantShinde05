@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ravikant Shinde</h1>
 
-<h3>Blockchain Developer | Decentralization |  DLT | Bitcoin | Ethereum | Hyperledger- fabric | Layer-2 Solutions | Zero-knowledge Rollups | Solana | Dapp Developer | Solidity | Full-Stack Developer.</h3>
+<h3>Blockchain Developer | DLT | Bitcoin | Ethereum | Hyperledger- fabric | Layer-2 Solutions | Zero-knowledge Rollups | Solana | Dapp Developer | Solidity | Full-Stack Developer.</h3>
 
 
-- 🔭 I’m currently Building <h2>On-Chain AI Agents</h2>
+-<h1>🔭 I’m currently Building </h1>  <h3>On-Chain AI Agents</h3>
 
-- 🌱 I’m currently learning <h2>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS to the Web3 World, Connecting Web2 applications with Web3 World</h2>
+
+- 🌱 I’m also currently learning and UpGrading myself with :- <h3>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS to the Web3 World, Connecting Web2 applications with Web3 World</h3>
 
 
 # 💻 Tech Stack :
