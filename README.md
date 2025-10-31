@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently Building <h2>On-Chain AI Agents</h2>
 
-- 🌱 I’m currently learning <h2>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies / Protocols that are leveraging Cross-Chain funtionality, connecting with the REAL-WORLD assets (Connecting Web2 to Web3 World with the use of Oracles)</h2>
+- 🌱 I’m currently learning <h2>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies / Protocols that are leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS, Connecting Web2 to Web3 World </h2>
 
 
 # 💻 Tech Stack :
