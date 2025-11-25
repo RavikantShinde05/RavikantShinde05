@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ravikant Shinde</h1>
 
-<h3>Blockchain Developer | DLT | Bitcoin | Ethereum | Hyperledger- fabric | Layer-2 Solutions | Zero-knowledge Rollups | Solana | Dapp Developer | Solidity | Full-Stack Developer.</h3>
+<h3>Blockchain Developer | DLT | Bitcoin | Ethereum | Layer-2 Solutions | Zero-knowledge Proof | Solana | Hyperledger- fabric | Dapp Developer | Solidity | Full-Stack Developer.</h3>
+
+<h1>🔭 I’m currently Building Decentralized Applications</h1>
 
 
--<h1>🔭 I’m currently Building On-Chain AI Agents</h1>
-
-
-- 🌱 I’m also currently learning and UpGrading myself with :- <h4>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS to the Web3 World, Connecting Web2 applications with Web3 World</h4>
+<h2>- 🌱 I’m also currently learning:-  </h2>  <h4>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS to the Web3 World, Connecting Web2 applications with Web3 World</h4>
 
 
 # 💻 Tech Stack :
@@ -18,7 +17,7 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Remix](https://img.shields.io/badge/remix-%23000.svg?style=plastic&logo=remix&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Web3.js](https://img.shields.io/badge/web3.js-F16822?style=plastic&logo=web3.js&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=plastic&logo=anaconda&logoColor=white)
 
 ## DataBases Used :
-![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=plastic&logo=couchbase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white)  
+![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=plastic&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=plastic&logo=apache-cassandra&logoColor=white) ![Couchbase](https://img.shields.io/badge/Couchbase-EA2328?style=plastic&logo=couchbase&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white)  
 
 ## Cloud Platforms:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
