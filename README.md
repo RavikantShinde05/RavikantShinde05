@@ -35,12 +35,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shinderavikantss05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravikantss05@gmail.com) 
 
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RevX&theme=merko&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=RevX&theme=merko&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RevX&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantshinde05&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantshinde05" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ravikantshinde05" alt="ravikantshinde05" /></a> </p>
