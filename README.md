@@ -34,6 +34,7 @@
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/shinderavikantss05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ravikantss05@gmail.com) 
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=RavikantShinde05&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravikantshinde05&label=Profile%20views&color=0e75b6&style=flat" alt="ravikantshinde05" /> </p>
 
