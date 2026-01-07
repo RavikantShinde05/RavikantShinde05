@@ -6,7 +6,7 @@
 
 
 <h2> 🌱 I’m also currently learning:-  </h2>  
-<h3>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the (RWA) REAL WORLD ASSETS to the Web3 World, Connecting Web2 applications with Web3 World</h3>
+<h3>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the "REAL WORLD ASSETS (RWA)" to the Web3 World, Connecting Web2 applications with Web3 World</h3>
 
 
 # 💻 Tech Stack :
