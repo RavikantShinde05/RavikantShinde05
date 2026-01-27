@@ -2,15 +2,16 @@
 
 <h3>Blockchain Developer | DLT | Bitcoin | Ethereum | Layer-2 Solutions | Zero-knowledge Proof | Solana | Hyperledger- fabric | Dapp Developer | Solidity | Full-Stack Developer.</h3>
 
-<h1>🔭 I’m currently Building Decentralized Applications</h1>
+## 🌱 I’m also currently learning:-   
+Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the "REAL WORLD ASSETS (RWA)" to the Web3 World, Connecting Web2 applications with Web3 World.
+
+## I’m currently Building Decentralized Applications:
 
 
-<h2> 🌱 I’m also currently learning:-  </h2>  
-<h3>Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the "REAL WORLD ASSETS (RWA)" to the Web3 World, Connecting Web2 applications with Web3 World</h3>
+# Tech Stack :
 
-
-# 💻 Tech Stack :
 ## Languages: 
+
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Solidity](https://img.shields.io/badge/Solidity-%23363636.svg?style=plastic&logo=solidity&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)  ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=plastic&logo=go&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=plastic&logo=gnu-bash&logoColor=white)
 
 ## Libraries and Frameworks :
