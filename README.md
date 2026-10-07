@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravikant Shinde</h1>
 
-## Blockchain Developer | DLT | Bitcoin | Ethereum | Layer-2 Solutions | Zero-knowledge Proof | Solana | Hyperledger-fabric | Dapp Developer | Solidity | Full-Stack Developer. 
+## Blockchain Developer | DLT | Bitcoin | Ethereum | Layer-2 Solutions | Zero-knowledge Proof | Solana | Hyperledger-fabric | Dapp Developer | Solidity | Full-Stack Developer | 
 
 ## I’m also currently learning:-   
 Various Blockchain protocols, Tools, and underneath techstack used for Ecosystem in the Web3-Decentralized World, and technologies/Protocols helps us Developing various functionality and features to the ecosystem like leveraging Cross-Chain funtionality, connecting with the ***"REAL WORLD ASSETS (RWA)"*** to the Web3 World, Connecting Web2 applications with Web3 World.
